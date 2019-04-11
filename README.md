@@ -4,7 +4,7 @@
 
 ### Version Without Redux
 This version includes Redux
-[Click Here For the Version WITHOUT Redux](https://github.com/bradtraversy/react_express_starter) 
+[Click Here For the Version WITHOUT Redux](https://github.com/sagar097/React-Express-Starter-Pack) 
 
 ## Quick Start
 
@@ -31,7 +31,7 @@ npm run client
 
 ### Authors
 
-Brad Traversy & Gregory Assasie
+Sagar Pawar
 
 ### Version
 
